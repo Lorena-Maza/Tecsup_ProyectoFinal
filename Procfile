@@ -1,0 +1,1 @@
+web: gunicorn disert_django.wsgi
